@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Tesbih" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/aleyna_bg</item>
+        <item name="android:statusBarColor">@color/aleyna_bg</item>
+        <item name="android:navigationBarColor">@color/aleyna_bg</item>
+        <item name="colorPrimary">#B0306A</item>
+        <item name="colorPrimaryVariant">#7A1C4A</item>
+        <item name="colorSecondary">#E3B654</item>
+    </style>
+</resources>
